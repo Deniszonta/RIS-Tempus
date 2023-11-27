@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using web.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    if (SignInManager.IsSignedIn(User)){
+        //Tukaj pride html koda za tickete
+    }
+    else{
+        <div class="text-center">
+            <h1 class="display-4">Welcome to Tempus!</h1>
+            <button type="button" class="btn btn-primary" ><a class="nav-link text-white" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a></button>
+            <button type="button" class="btn btn-outline-primary"><a class="nav-link" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a></button>
+        </div>
+    }
+}
+
+
+
+
