@@ -10259,11 +10259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/denis/Documents/Faks/IS/Timely/web.csproj",
+      "projectUniqueName": "/Users/denis/Documents/Faks/IS/Tempus/IS_TicketingApp/web.csproj",
       "projectName": "web",
-      "projectPath": "/Users/denis/Documents/Faks/IS/Timely/web.csproj",
+      "projectPath": "/Users/denis/Documents/Faks/IS/Tempus/IS_TicketingApp/web.csproj",
       "packagesPath": "/Users/denis/.nuget/packages/",
-      "outputPath": "/Users/denis/Documents/Faks/IS/Timely/obj/",
+      "outputPath": "/Users/denis/Documents/Faks/IS/Tempus/IS_TicketingApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/denis/.nuget/NuGet/NuGet.Config"
