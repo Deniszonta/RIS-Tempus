@@ -63,10 +63,8 @@ namespace web.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("UserID,Ime,Priimek,Email")] User user)
         {
-            if (ModelState.IsValid)
-            {
-                var appuser = new ApplicationUser
-            {
+            if (ModelState.IsValid){
+                var appuser = new ApplicationUser{
                 Ime = user.Ime,
                 Priimek = user.Priimek,
                 Email = user.Email,
@@ -78,33 +76,31 @@ namespace web.Controllers
                 PhoneNumberConfirmed = true,
                 SecurityStamp = Guid.NewGuid().ToString("D")
             };
-            if (!_context.Users.Any(u => u.Email == appuser.Email))
-            {
+
+            if (!_context.Users.Any(u => u.Email == appuser.Email)){
                 var password = new PasswordHasher<ApplicationUser>();
-                var hashed = password.HashPassword(appuser,"Admin1!");
+                var hashed = password.HashPassword(appuser,"SpremeniMe123!");
                 appuser.PasswordHash = hashed;
                 _context.Users.Add(appuser);
             }
 
                 _context.SaveChanges();
-                var UserRoles = new IdentityUserRole<string>[]
-                {
+                var UserRoles = new IdentityUserRole<string>[]{
                     new IdentityUserRole<string>{RoleId = "3", UserId=appuser.Id},
                 };
 
-            foreach (IdentityUserRole<string> r in UserRoles)
-            {
+            foreach (IdentityUserRole<string> r in UserRoles){
                 _context.UserRoles.Add(r);
             }
             _context.SaveChanges();
 
-                user.appUser = appuser;
-                _context.Add(user);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+            user.appUser = appuser;
+            _context.Add(user);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
             }
-            return View(user);
-        }
+        return View(user);
+    }
 
         // GET: Uporabnikis/Edit/5
         public async Task<IActionResult> Edit(int? id)
