@@ -46,7 +46,7 @@ namespace web.Controllers
         }
 
         // GET: Projects/Create
-        [Authorize(Roles = "Manager")]
+        [Authorize(Roles = "Manager, Administrator")]
         public IActionResult Create()
         {
             return View();
@@ -122,6 +122,7 @@ namespace web.Controllers
         }
 
         // GET: Projects/Delete/5
+        [Authorize(Roles = "Administrator, Manager")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Projects == null)
@@ -142,6 +143,7 @@ namespace web.Controllers
         // POST: Projects/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Administrator, Manager")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Projects == null)
