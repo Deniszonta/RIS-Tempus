@@ -5,7 +5,7 @@ using web.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("TempusContext");
+var connectionString = builder.Configuration.GetConnectionString("AzureContext");
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
