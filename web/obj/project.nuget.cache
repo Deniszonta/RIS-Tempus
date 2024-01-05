@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYrWCcgUhSXOyJLlD/xfNNe8xSegPwMGIOqZgsUWI6Z1Z+wNupoU6ikDu209oncs4IsXlSWs13h7LAyHk1MbNA==",
+  "dgSpecHash": "P8LMIc8JGRU5Ph5xfehWGgbob8sWUvPfIuZaYFs0QFgD3NaNffOpNnvblx7kdwzkp8fOlOp98s62/jbOsjisRw==",
   "success": true,
-  "projectFilePath": "/Users/denis/Documents/Faks/IS/TempusNo15/web/web.csproj",
+  "projectFilePath": "/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/web.csproj",
   "expectedPackageFiles": [
     "/Users/denis/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/denis/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

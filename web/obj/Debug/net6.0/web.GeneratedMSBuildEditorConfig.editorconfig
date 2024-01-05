@@ -8,133 +8,133 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = web
 build_property.RootNamespace = web
-build_property.ProjectDir = /Users/denis/Documents/Faks/IS/TempusNo15/web/
+build_property.ProjectDir = /Users/denis/Documents/Faks/IS/IS_TicketingApp/web/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/denis/Documents/Faks/IS/TempusNo15/web
+build_property.MSBuildProjectDirectory = /Users/denis/Documents/Faks/IS/IS_TicketingApp/web
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/Account/Login.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/Account/Logout.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/Account/Register.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/_ViewImports.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Areas/Identity/Pages/_ViewStart.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Home/Index.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Home/Privacy.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Projects/Create.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Projects/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Projects/Delete.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Projects/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Projects/Details.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Projects/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Projects/Edit.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Projects/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Projects/Index.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Projects/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Shared/Error.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Shared/_LoginPartial.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Tickets/Create.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Tickets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Tickets/Delete.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Tickets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Tickets/Details.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Tickets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Tickets/Edit.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Tickets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Tickets/Index.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Tickets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Uporabnikis/Create.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Uporabnikis/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXBvcmFibmlraXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Uporabnikis/Delete.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Uporabnikis/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXBvcmFibmlraXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Uporabnikis/Details.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Uporabnikis/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXBvcmFibmlraXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Uporabnikis/Edit.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Uporabnikis/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXBvcmFibmlraXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Uporabnikis/Index.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Uporabnikis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXBvcmFibmlraXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/_ViewImports.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/_ViewStart.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denis/Documents/Faks/IS/TempusNo15/web/Views/Shared/_Layout.cshtml]
+[/Users/denis/Documents/Faks/IS/IS_TicketingApp/web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-geqq2yljpt
