@@ -54,4 +54,4 @@ jobs:
           app-name: 'tempus-web'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98063FD4659A43D38A64DC10DBA4BB0A }}
-          package: .
+          package: ./.net-app
