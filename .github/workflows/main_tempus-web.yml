@@ -45,7 +45,7 @@ jobs:
       - name: Download artifact from build job
         uses: actions/download-artifact@v3
         with:
-          name: .net-app
+          name: tempus-web
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -54,4 +54,4 @@ jobs:
           app-name: 'tempus-web'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98063FD4659A43D38A64DC10DBA4BB0A }}
-          package: ./.net-app
+          package: ./tempus-web
