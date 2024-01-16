@@ -13,9 +13,9 @@ sliko podatkovnega modela podatkovne baze:
 
 Zaslonske slike:
 
-![slika 6](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS-Android%2001.png?raw=true)
 ![slika 5](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS%2004.png?raw=true)
 ![slika 4](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS%2005.png?raw=true)
 ![slika 3](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS%2006.png?raw=true)
 ![slika 2](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS%2007.png?raw=true)
 ![slika 1](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS-Android%2002.png?raw=true)
+![slika 6](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS-Android%2001.png?raw=true)
