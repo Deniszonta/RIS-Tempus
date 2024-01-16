@@ -11,7 +11,8 @@ Na začetni strani so predstavljeni vsi ticketi prijavljenega uporabnika, katere
 sliko podatkovnega modela podatkovne baze:
 ![slika podatkovne baze](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/podatkovna%20baza.png?raw=true)
 
-Zaslonske slike:\n
+Zaslonske slike:
+
 ![slika 6](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS-Android%2001.png?raw=true)
 ![slika 5](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS%2004.png?raw=true)
 ![slika 4](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/Zaslonske%20slike%20Tempus%20App%20IS%2005.png?raw=true)
