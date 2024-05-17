@@ -1,4 +1,4 @@
-# IS_TicketingApp -> Tempus
+# RIS_TicketingApp -> Tempus
 
 ## Člana ekipe
 Denis Žonta 63210378
