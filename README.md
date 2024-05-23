@@ -10,8 +10,9 @@ Na začetni strani so predstavljeni vsi ticketi prijavljenega uporabnika, katere
 
 ## Uporabniška imena in gesla
 peter@gmail.com -> SpremeniMe123!
-admin@gmail.com -> Admin1!
-Link do strani: https://tempus-is.azurewebsites.net
+admin@gmail.com -> Admin1!                                           
+
+Link do strani: https://tempus-is.azurewebsites.net -> zna dolgo nalagat. Potrpežljivost je lepa čednost ;)
 
 Slika podatkovnega modela podatkovne baze:
 ![slika podatkovne baze](https://github.com/Deniszonta/IS_TicketingApp/blob/api/images/podatkovna%20baza.png?raw=true)
